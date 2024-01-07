@@ -1,12 +1,12 @@
 ---
 title: "Uniberry"
-excerpt: "Your university's most comprehensive knowledgebase<br/><img src='/images/uniberrywebsite.png' width="500">"
+excerpt: "Your university's most comprehensive knowledgebase<br/><img src='/images/uniberrywebsite.png'>"
 collection: portfolio
 ---
 
 # Overview
 
-An mobile app designed to streamline day to day chores of university students such as course scheduling, ordering food, faculty and student Q&A. 
+An mobile app designed to streamline day to day chores of university students such as course scheduling, food ordering, faculty and student Q&A. 
 
 Check out the website at https://www.uniberry.site
 Github repository: https://github.com/hspark15429/uniberry
