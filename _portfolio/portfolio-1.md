@@ -3,7 +3,6 @@ title: "Uniberry"
 excerpt: "A production app to guide university students throughout their academic journey, released on both App Store and Play Store in September 2022. <br/><br/><img src='/images/uniberrywebsitesmall.png'>"
 collection: portfolio
 ---
-![website](/images/uniberrywebsitemedium.png)
 
 # Overview
 
