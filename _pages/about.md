@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+# Projects
 
 {% for post in site.portfolio %}
   {% include archive-single.html %}
