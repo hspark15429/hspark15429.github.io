@@ -1,12 +1,19 @@
 ---
-title: "Blo-my(육군참모총장상)"
+title: "Uniberry"
 date: 2023-11-02
-excerpt: "Blockchain-Army, 블록체인을 활용한 광범위한 국방 데이터 유통 프로젝트 <br/><br/><img src='/images/blomy.png'>"
+excerpt: "A productivity app to guide university students throughout their academic journey, released on both App Store and Play Store in September 2022. <br/><br/><img src='/images/uniberrywebsitesmall.png'>"
 collection: portfolio
 ---
+![website](/images/uniberrywebsitemedium.png)
 
-# 개요
+# Overview
 
-![website](/images/techstack-blomy.png)
+An mobile app designed to streamline day to day chores of university students such as course scheduling, food ordering, faculty and student Q&A. 
 
-Github 저장소:  [https://github.com/osamhack2021/CLOUD_WEB_Blo-my_Byzantium](https://github.com/osamhack2021/CLOUD_WEB_Blo-my_Byzantium)
+Check out the website at [https://www.uniberry.site](https://www.uniberry.site)
+
+Github Repo:  [https://github.com/hspark15429/uniberry](https://github.com/hspark15429/uniberry)
+
+[![Install](/images/appstoredownload.svg)](https://apps.apple.com/jp/app/uniberry/id6456405384)
+
+[![Install](/images/playstoredownload.png)](https://play.google.com/store/apps/details?id=com.uniberry.gtk_flutter)
