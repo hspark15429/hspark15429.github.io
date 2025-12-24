@@ -1,7 +1,7 @@
 ---
 title: "Deep Learning based NIDS"
 date: 2025-06-20
-excerpt: "Network Intrusion Detection System benchmarking deep architectures <br/><br/><img src='/images/nids.png'>"
+excerpt: "Network Intrusion Detection System benchmarking deep architectures <br/><br/><img src='/images/NIDS.png'>"
 collection: portfolio
 ---
 
