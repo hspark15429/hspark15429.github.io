@@ -9,11 +9,28 @@ redirect_from:
 ---
 
 {% include base_path %}
-# Projects
 
-{% for post in site.portfolio %}
-  {% include archive-single.html %}
-{% endfor %}
+# About Me
+
+Hi, I'm Han Sung Park, a Software Engineer based in Seoul, South Korea.
+
+[Add your personal introduction here - your background, what you do, your interests, etc.]
+
+## Background
+
+[Describe your educational background, work experience, or career journey]
+
+## Interests & Expertise
+
+[What technologies, domains, or areas are you passionate about?]
+
+## Current Work
+
+[What are you currently working on or learning?]
+
+## Get in Touch
+
+Feel free to reach out if you'd like to connect! You can find me on [LinkedIn](https://www.linkedin.com/in/han-sung-park-704aa7167) or check out my projects on [GitHub](https://github.com/hspark15429).
 
 
 <!-- 
