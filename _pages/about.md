@@ -12,25 +12,60 @@ redirect_from:
 
 # About Me
 
-Hi, I'm Han Sung Park, a Software Engineer based in Seoul, South Korea.
+Hi, I'm a Master's candidate at Georgia Tech focusing on machine learning and an aspiring MLE / DS. I am passionate about **Graph Neural Networks (GNNs)**, **Retrieval-Augmented Generation (RAG)**, **Knowledge Graphs**, **Reinforcement Learning**, **Edge AI / TinyML**, and **IoT**.
 
-[Add your personal introduction here - your background, what you do, your interests, etc.]
+Currently, I serve as a Graduate Teaching Assistant for Machine Learning (CS 7641). My recent work involves building heterogeneous Knowledge Graph pipelines, optimizing LLM retrieval using Neo4j and LangChain, and developing deep learning models for intrusion detection. Previously, I have experience in cloud engineering and full-stack development across Australia and South Korea.
 
-## Background
+## Experience
 
-[Describe your educational background, work experience, or career journey]
+* **Graduate Teaching Assistant**
+    * *Georgia Institute of Technology (Atlanta, USA)*
+    * *Aug 2025 - Present*
+    * Leading office hours, student discussions, and Q&A for CS 7641 (Machine Learning). Grading ML projects and reports under the guidance of Dr. Theodore J. LaGrow.
 
-## Interests & Expertise
+* **Software Engineer (Freelance)**
+    * *Freelancer (Seoul, South Korea)*
+    * *Mar 2024 - Aug 2024*
+    * Onboarded web crawlers (Scrapy, Pyppeteer, Selenium, Playwright) and automated enterprise team workflows. Successfully launched scheduling/networking app.
 
-[What technologies, domains, or areas are you passionate about?]
+<!-- * **Technical Translator**
+    * *TP-Link (Seoul, South Korea)*
+    * *Jan 2023 - Mar 2024*
+    * Translated technical documents for engineers between English and Korean
 
-## Current Work
+* **Weapons Specialist**
+    * *Republic of Korea Army (Paju, South Korea)*
+    * *Apr 2021 - Oct 2022* -->
 
-[What are you currently working on or learning?]
+* **Cloud Engineer**
+    * *Egarda Pty Ltd (ThreatDefence) (Sydney, Australia)*
+    * *Jul 2017 - Mar 2021*
+    * Led and managed end-to-end cloud and on-premises infrastructure projects (migration and deployment). Served as ServiceDesk Manager for 150+ clients, providing consulting on AWS, Azure, and GCP.
+
+## Education
+
+* **M.S. in Computer Science (Machine Learning)**
+    * *Georgia Institute of Technology (Aug 2024 -- Dec 2025)*
+    * GPA: 4.0/4.0
+
+* **B.S. in Computer Science/Engineering**
+    * *Korean National Open University (Sep 2022 -- Jun 2024)*
+    * GPA: 4.2/4.5
+
+* **Industrial and Systems Engineering**
+    * *Georgia Institute of Technology (Aug 2012 -- May 2014)*
+
+## Skills
+
+| Category | Technologies |
+| :--- | :--- |
+| **Machine Learning** | Graph Neural Networks, Graph RAG, Knowledge Graphs, RAG Pipelines, Reinforcement Learning, Data Structures & Algorithms, Data Visualization(Tableau, Plotly, Matplotlib)|
+| **Tools & Technologies** | Python, C++, Java, Git, PyTorch, Keras, Scikit-learn, Pandas, Numpy, LangChain, Gymnasium, PettingZoo, Selenium, AWS, GCP, Docker, MongoDB, Postgres |
+| **Languages** | English (Fluent, TOEFL 117/120), Korean (Fluent) |
 
 ## Get in Touch
 
-Feel free to reach out if you'd like to connect! You can find me on [LinkedIn](https://www.linkedin.com/in/han-sung-park-704aa7167) or check out my projects on [GitHub](https://github.com/hspark15429).
+Feel free to reach out if you'd like to connect! You can find me on [LinkedIn](https://www.linkedin.com/in/johnsmith-704aa7167/) or view my CV [here](/files/cv.pdf).
 
 
 <!-- 
