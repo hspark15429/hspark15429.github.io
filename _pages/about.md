@@ -65,7 +65,7 @@ Currently, I serve as a Graduate Teaching Assistant for Machine Learning (CS 764
 
 ## Get in Touch
 
-Feel free to reach out if you'd like to connect! You can find me on [LinkedIn](https://www.linkedin.com/in/johnsmith-704aa7167/) or view my CV [here](/files/cv.pdf).
+Feel free to reach out if you'd like to connect! You can find me on [LinkedIn](https://www.linkedin.com/in/han-sung-park-704aa7167/) or view my CV [here](/files/cv.pdf).
 
 
 <!-- 
