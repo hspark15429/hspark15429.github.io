@@ -15,8 +15,11 @@ collection: portfolio
 * **Advanced GNN Architectures:** Trained Graph Attention Networks (GAT) and Graph Transformers to capture structural dependencies.
 * **Imbalance Handling:** Implemented Focal Loss during training to significantly improve performance on underrepresented classes, boosting micro-f1 scores by 30% over baselines.
 * **Graph-RAG Implementation:** Developed Retrieval-Augmented Generation using Ego-Graphs to ground LLM responses in structured facts.
-* **LLM Fine-Tuning:** Fine-tuned open-source LLMs (Qwen and Mistral) using PyTorch Geometric to optimize them for graph-based tasks.
+* **Cross-Modal Alignment:** Implemented a trained Projection Layer to map GAT-encoded graph features into the LLM's embedding space, enabling the model to "see" graph structures natively.
+* **Efficient LLM Adaptation (LoRA):** Applied Low-Rank Adaptation (LoRA) adapters to open-source LLMs (Qwen and Mistral), facilitating efficient fine-tuning on graph tasks while preserving pre-trained knowledge.
+* **Structured Instruction Tuning:** Designed a specialized prompt schema ([INST] Task List + Node Name + Instructions [/INST]) processed via an LLM Text Embedder to guide the generative output for specific node-level tasks.
 
 **Technologies:** Python, PyTorch Geometric, Neo4j, BGE, BM25, Qwen, Mistral, GAT, Graph Transformer.
 
 Github Repo:  [https://github.com/KeXin95/HuggingfaceKG-retriever](https://github.com/KeXin95/HuggingfaceKG-retriever)
+

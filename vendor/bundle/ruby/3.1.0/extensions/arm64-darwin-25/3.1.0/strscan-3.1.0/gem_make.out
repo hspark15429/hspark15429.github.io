@@ -1,0 +1,18 @@
+current directory: /Users/han/Documents/development/hspark15429.github.io/vendor/bundle/ruby/3.1.0/gems/strscan-3.1.0/ext/strscan
+/Users/han/.rbenv/versions/3.1.4/bin/ruby -I /Users/han/.rbenv/versions/3.1.4/lib/ruby/3.1.0 extconf.rb
+checking for onig_region_memsize() in ruby.h... yes
+checking for rb_reg_onig_match() in ruby.h... no
+creating Makefile
+
+current directory: /Users/han/Documents/development/hspark15429.github.io/vendor/bundle/ruby/3.1.0/gems/strscan-3.1.0/ext/strscan
+make DESTDIR\= sitearchdir\=./.gem.20260123-43534-u0rjm sitelibdir\=./.gem.20260123-43534-u0rjm clean
+
+current directory: /Users/han/Documents/development/hspark15429.github.io/vendor/bundle/ruby/3.1.0/gems/strscan-3.1.0/ext/strscan
+make DESTDIR\= sitearchdir\=./.gem.20260123-43534-u0rjm sitelibdir\=./.gem.20260123-43534-u0rjm
+compiling strscan.c
+linking shared-object strscan.bundle
+ld: warning: ignoring duplicate libraries: '-lruby.3.1'
+
+current directory: /Users/han/Documents/development/hspark15429.github.io/vendor/bundle/ruby/3.1.0/gems/strscan-3.1.0/ext/strscan
+make DESTDIR\= sitearchdir\=./.gem.20260123-43534-u0rjm sitelibdir\=./.gem.20260123-43534-u0rjm install
+/usr/bin/install -c -m 0755 strscan.bundle ./.gem.20260123-43534-u0rjm
