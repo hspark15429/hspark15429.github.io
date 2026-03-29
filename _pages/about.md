@@ -12,21 +12,28 @@ redirect_from:
 
 # About Me
 
-Hi, I'm a Master's candidate at Georgia Tech focusing on machine learning and an aspiring MLE / DS. I am passionate about **Graph Neural Networks (GNNs)**, **Retrieval-Augmented Generation (RAG)**, **Knowledge Graphs**, **Reinforcement Learning**, **Edge AI / TinyML**, and **IoT**.
+Hi, I'm an AI Research Intern at Naver in Seoul, South Korea. I graduated with Master's in Computer Science from Georgia Tech focusing on machine learning. I am an aspiring MLE / DS. I am passionate about **Large Language Models (LLMs)**, **Graph Neural Networks (GNNs)**, **Retrieval-Augmented Generation (RAG)**, **Knowledge Graphs**, **Reinforcement Learning**, **Edge AI / TinyML**, and **IoT**.
 
 Currently, I serve as a Graduate Teaching Assistant for Machine Learning (CS 7641). My recent work involves building heterogeneous Knowledge Graph pipelines, optimizing LLM retrieval using Neo4j and LangChain, and developing deep learning models for intrusion detection. Previously, I have experience in cloud engineering and full-stack development across Australia and South Korea.
 
 ## Experience
 
+* **AI Research Intern**
+    * *Naver Cloud (Seoul, South Korea)*
+    * *Feb 2026 - Present*
+    * Vietnamese Text Normalization (TN) Pipeline: Spearheading the zero-to-one development of a golden benchmark dataset for Vietnamese Text Normalization, addressing critical data scarcity in low-resource language TTS frontends.
+    * Model Evaluation & Architecture: Evaluating state-of-the-art TN architectures and synthesizing research to architect the next-generation text processing pipeline for enterprise-grade text-to-speech systems.
+
 * **Graduate Teaching Assistant**
     * *Georgia Institute of Technology (Atlanta, USA)*
-    * *Aug 2025 - Present*
-    * Leading office hours, student discussions, and Q&A for CS 7641 (Machine Learning). Grading ML projects and reports under the guidance of Dr. Theodore J. LaGrow.
+    * *Aug 2025 - Dec 2025*
+    * Facilitated learning for student cohort on core ML concepts (Supervised/Unsupervised Learning, Optimization, RL).
+    * Assessed complex ML implementations, providing code-level feedback on scalability and algorithmic efficiency under Dr. Theodore J. LaGrow.
 
-* **Software Engineer (Freelance)**
+<!-- * **Software Engineer (Freelance)**
     * *Freelancer (Seoul, South Korea)*
     * *Mar 2024 - Aug 2024*
-    * Onboarded web crawlers (Scrapy, Pyppeteer, Selenium, Playwright) and automated enterprise team workflows. Successfully launched scheduling/networking app.
+    * Onboarded web crawlers (Scrapy, Pyppeteer, Selenium, Playwright) and automated enterprise team workflows. Successfully launched scheduling/networking app. -->
 
 <!-- * **Technical Translator**
     * *TP-Link (Seoul, South Korea)*
@@ -60,7 +67,7 @@ Currently, I serve as a Graduate Teaching Assistant for Machine Learning (CS 764
 | Category | Technologies |
 | :--- | :--- |
 | **Machine Learning** | Graph Neural Networks, Graph RAG, Knowledge Graphs, RAG Pipelines, Reinforcement Learning, Data Structures & Algorithms, Data Visualization(Tableau, Plotly, Matplotlib)|
-| **Tools & Technologies** | Python, C++, Java, Git, PyTorch, Keras, Scikit-learn, Pandas, Numpy, LangChain, Gymnasium, PettingZoo, Selenium, AWS, GCP, Docker, MongoDB, Postgres |
+| **Tools & Technologies** | Python, C++, Java, Git, PyTorch, Keras, Scikit-learn, Pandas, Numpy, LangChain, Gymnasium, PettingZoo, Selenium, AWS, GCP, Docker, MongoDB, Postgres, NeMo |
 | **Languages** | English (Fluent, TOEFL 117/120), Korean (Fluent) |
 
 ## Get in Touch
