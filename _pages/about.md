@@ -14,14 +14,14 @@ redirect_from:
 
 Hi, I'm an AI Research Intern at Naver in Seoul, South Korea. I graduated with Master's in Computer Science from Georgia Tech focusing on machine learning. I am an aspiring MLE / DS. I am passionate about **Large Language Models (LLMs)**, **Graph Neural Networks (GNNs)**, **Retrieval-Augmented Generation (RAG)**, **Knowledge Graphs**, **Reinforcement Learning**, **Edge AI / TinyML**, and **IoT**.
 
-Currently, I serve as a Graduate Teaching Assistant for Machine Learning (CS 7641). My recent work involves building heterogeneous Knowledge Graph pipelines, optimizing LLM retrieval using Neo4j and LangChain, and developing deep learning models for intrusion detection. Previously, I have experience in cloud engineering and full-stack development across Australia and South Korea.
+I served as a Graduate Teaching Assistant for Machine Learning (CS 7641). Since Feb 2026, I’ve been an AI Research Intern at Naver Cloud, where I’m developing a Text Normalization (TN) pipeline through model evaluation, architecture design, and dataset creation. My broader research work includes heterogeneous Knowledge Graph and Graph-RAG pipelines (Neo4j and LangChain), as well as deep learning models for intrusion detection. Previously, I have experience in cloud engineering and development across Australia and South Korea.
 
 ## Experience
 
 * **AI Research Intern**
     * *Naver Cloud (Seoul, South Korea)*
     * *Feb 2026 - Present*
-    * Vietnamese Text Normalization (TN) Pipeline: Spearheading the zero-to-one development of a golden benchmark dataset for Vietnamese Text Normalization, addressing critical data scarcity in low-resource language TTS frontends.
+    * Text Normalization (TN) Pipeline: Spearheading the zero-to-one development of a golden benchmark dataset for Text Normalization, addressing critical data scarcity in low-resource language TTS frontends.
     * Model Evaluation & Architecture: Evaluating state-of-the-art TN architectures and synthesizing research to architect the next-generation text processing pipeline for enterprise-grade text-to-speech systems.
 
 * **Graduate Teaching Assistant**
@@ -29,20 +29,6 @@ Currently, I serve as a Graduate Teaching Assistant for Machine Learning (CS 764
     * *Aug 2025 - Dec 2025*
     * Facilitated learning for student cohort on core ML concepts (Supervised/Unsupervised Learning, Optimization, RL).
     * Assessed complex ML implementations, providing code-level feedback on scalability and algorithmic efficiency under Dr. Theodore J. LaGrow.
-
-<!-- * **Software Engineer (Freelance)**
-    * *Freelancer (Seoul, South Korea)*
-    * *Mar 2024 - Aug 2024*
-    * Onboarded web crawlers (Scrapy, Pyppeteer, Selenium, Playwright) and automated enterprise team workflows. Successfully launched scheduling/networking app. -->
-
-<!-- * **Technical Translator**
-    * *TP-Link (Seoul, South Korea)*
-    * *Jan 2023 - Mar 2024*
-    * Translated technical documents for engineers between English and Korean
-
-* **Weapons Specialist**
-    * *Republic of Korea Army (Paju, South Korea)*
-    * *Apr 2021 - Oct 2022* -->
 
 * **Cloud Engineer**
     * *Egarda Pty Ltd (ThreatDefence) (Sydney, Australia)*
